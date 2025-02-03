@@ -1,0 +1,1 @@
+<!-- flet pack main.py --add-data "assets;assets" --add-data "fonts;fonts" --icon assets\icon.png --name LembreMe --product-name LembreMe --product-version 1.0.0 --file-description "LembreMe.exe 2024" --copyright "Leandro Camilo" -->
