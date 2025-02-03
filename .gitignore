@@ -3,3 +3,4 @@ build/
 storange/
 venv/
 data/
+.gitignore
