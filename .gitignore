@@ -4,3 +4,4 @@ storange/
 venv/
 data/
 .gitignore
+setup/
