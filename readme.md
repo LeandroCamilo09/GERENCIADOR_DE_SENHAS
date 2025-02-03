@@ -24,6 +24,8 @@
 - Adiconar novas contas quando nescessário.
 - Deletar contas quando nescessário.
 - Editar informações de login e senha quando nescessário.
+### Como funciona:
+<img src="assets/app.gif">
 
 ## Tecnologias utilizadas:
 
